@@ -1,0 +1,1 @@
+C Binary Trees are data structures used to store and retrieve data in an efficient manner. They are composed of nodes that contain data, as well as links that point to other nodes in the tree.
